@@ -28,3 +28,5 @@ https://github.com/xiaolin3303/wx-charts
 > https://github.com/waylau/rest-in-action
 ## 赞UI
 > https://github.com/youzan/zanui-weapp
+## 图片预览上传
+> https://github.com/think2011/localResizeIMG
