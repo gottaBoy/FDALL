@@ -12,3 +12,7 @@
 https://github.com/xiaolin3303/wx-charts
 # 微信小程序开发资源汇总
 > https://github.com/justjavac/awesome-wechat-weapp
+# importnew
+> http://www.importnew.com/
+# RESTful API 设计最佳实践
+> http://www.importnew.com/24372.html
