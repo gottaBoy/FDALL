@@ -32,6 +32,12 @@ https://github.com/xiaolin3303/wx-charts
 > https://github.com/think2011/localResizeIMG
 ## web-uploader
 > https://github.com/devin87/web-uploader
+## bbsmax
+> https://www.bbsmax.com/
+## js canvas压缩图片上传
+> https://www.bbsmax.com/A/o75NjOaj5W/
+## html5 图片上传，支持图片预览、压缩、及进度显示，兼容IE6+及标准浏览器
+> https://www.bbsmax.com/A/KE5QbD0PdL/
 ## 微信中的知乎--微信小程序
 > https://github.com/RebeccaHanjw/weapp-wechat-zhihu
 ##  微信小程序——获取用户unionId
