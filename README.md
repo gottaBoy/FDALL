@@ -5,6 +5,8 @@
 > http://www.wxapp-union.com
 ## 解决方案
 > http://www.wxapp-union.com/special/solution.html
+## 微信支付系列
+> http://www.wxapp-union.com/portal.php?mod=list&catid=19
 ## 网络图片
 > http://www.moepan.net/
 ## base64
