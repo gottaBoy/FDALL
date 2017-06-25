@@ -70,3 +70,27 @@ https://github.com/xiaolin3303/wx-charts
 > http://www.wxapp-union.com/article-2572-1.html
 ## 小程序支付详解+源码(客户端+服务端)
 > http://www.wxapp-union.com/article-2516-1.html
+## 网易云音乐
+> https://github.com/MengZhaoFly/wechatApp-netease_cloudmusic
+## 网易云音乐 NodeJS 版 API
+> https://github.com/Binaryify/NeteaseCloudMusicApi
+## 网易云音乐命令行版本
+> https://github.com/darknessomi/musicbox
+## 小程序模仿——网易云音乐
+> https://github.com/MengZhaoFly/wechatApp-netease_cloudmusic
+## 微信(weixin|wechat) Python SDK 支持开放平台和公众平台 支持微信小程序登录
+> https://github.com/gusibi/python-weixin
+## 微信小程序：音乐播放器 技术栈: redux + es7 +labrador
+> https://github.com/eyasliu/wechat-app-music
+## Wechat Small Apps Demos
+> https://github.com/oopsguy/WechatSmallApps
+## 微信小程序版简易计算器，适合入门练手
+> https://github.com/dunizb/wxapp-sCalc
+## 微信小程序-v2ex
+> https://github.com/jectychen/wechat-v2ex
+## 微信小程序开发资源汇总
+> https://github.com/justjavac/awesome-wechat-weapp
+## 微信小程序——获取用户unionId
+> http://blog.csdn.net/futruejet/article/details/73558394
+## 小程序微信登陆获取openid和unionid
+> http://www.wxapp-union.com/article-2273-1.html
