@@ -157,7 +157,7 @@ https://github.com/xiaolin3303/wx-charts
 > https://github.com/JeffLi1993/springboot-learning-example
 ## 移动端使用localResizeIMG4压缩图片
 > https://github.com/blueimp/jQuery-File-Upload
->http://www.zhangxinxu.com/wordpress/2011/09/%E5%9F%BA%E4%BA%8Ehtml5%E7%9A%84%E5%8F%AF%E9%A2%84%E8%A7%88%E5%A4%9A%E5%9B%BE%E7%89%87ajax%E4%B8%8A%E4%BC%A0/
+> http://www.zhangxinxu.com/wordpress/2011/09/%E5%9F%BA%E4%BA%8Ehtml5%E7%9A%84%E5%8F%AF%E9%A2%84%E8%A7%88%E5%A4%9A%E5%9B%BE%E7%89%87ajax%E4%B8%8A%E4%BC%A0/
 > http://www.zhangxinxu.com/wordpress/2009/11/ajax-upload%E5%A4%9A%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%8F%92%E4%BB%B6%E7%BF%BB%E8%AF%91%E5%8F%8A%E4%B8%AD%E6%96%87%E6%BC%94%E7%A4%BA/
 > https://yq.aliyun.com/articles/33569
 > http://www.cnblogs.com/52fhy/p/5355601.html
