@@ -17,6 +17,8 @@ https://github.com/xiaolin3303/wx-charts
 > https://github.com/justjavac/awesome-wechat-weapp
 ## importnew  --java
 > http://www.importnew.com/
+## OAuth 2.0 认证的原理与实践
+> http://www.importnew.com/24344.html
 ## RESTful API 设计最佳实践
 > http://www.importnew.com/24372.html
 ## 最好的8个 Java RESTful 框架
@@ -66,6 +68,9 @@ https://github.com/xiaolin3303/wx-charts
 > http://www.wxapp-union.com/forum.php?mod=viewthread&tid=23
 ## Wechat Small Apps Demos
 > https://github.com/oopsguy/WechatSmallApps
+> https://github.com/myronliu347/wechat-app-zhihudaily
+> https://github.com/ahonn/weapp-one
+> https://github.com/MengZhaoFly/wechatApp-netease_cloudmusic
 ## 微信小程序：支付系列合集（开发指南+精品Demo）
 > http://www.wxapp-union.com/article-2572-1.html
 ## 小程序支付详解+源码(客户端+服务端)
@@ -130,3 +135,32 @@ https://github.com/xiaolin3303/wx-charts
 > http://www.cnblogs.com/hutuzhu/p/5265023.html
 ## axios
 > http://www.jianshu.com/p/df464b26ae58
+## Spring Boot参考指南
+> https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details
+## Dva + Ant Design 前后端分离之 React 应用实践
+> http://www.jianshu.com/p/1329a324101d
+## Redux-saga 中文文档
+> http://leonshi.com/redux-saga-in-chinese/index.html
+## base on dva react antd
+> https://github.com/tkvern/dva-passport
+## spring boot 
+> https://git.oschina.net/didispace/SpringBoot-Learning
+## http://spring4all.com/
+> http://spring4all.com/
+## Spring Security 实战：QQ登录实现
+> http://spring4all.com/article/66
+## https://github.com/ChinaSilence/any-spring-security
+> https://github.com/ChinaSilence/any-spring-security
+## Spring Security 入门：登录与退出
+> http://spring4all.com/article/47
+## spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
+> https://github.com/JeffLi1993/springboot-learning-example
+## 移动端使用localResizeIMG4压缩图片
+> https://github.com/blueimp/jQuery-File-Upload
+>http://www.zhangxinxu.com/wordpress/2011/09/%E5%9F%BA%E4%BA%8Ehtml5%E7%9A%84%E5%8F%AF%E9%A2%84%E8%A7%88%E5%A4%9A%E5%9B%BE%E7%89%87ajax%E4%B8%8A%E4%BC%A0/
+> http://www.zhangxinxu.com/wordpress/2009/11/ajax-upload%E5%A4%9A%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%8F%92%E4%BB%B6%E7%BF%BB%E8%AF%91%E5%8F%8A%E4%B8%AD%E6%96%87%E6%BC%94%E7%A4%BA/
+> https://yq.aliyun.com/articles/33569
+> http://www.cnblogs.com/52fhy/p/5355601.html
+> http://www.cnblogs.com/woider/p/6254859.html
+> https://github.com/think2011/localResizeIMG
+> http://www.zhangxinxu.com/study/201109/html5-file-image-ajax-upload.html
