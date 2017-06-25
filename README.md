@@ -64,3 +64,7 @@ https://github.com/xiaolin3303/wx-charts
 > http://www.wxapp-union.com/article-1955-1.html
 ## 微信小程序常见问题集合（独家制作）
 > http://www.wxapp-union.com/forum.php?mod=viewthread&tid=23
+## Wechat Small Apps Demos
+> https://github.com/oopsguy/WechatSmallApps
+## 微信小程序：支付系列合集（开发指南+精品Demo）
+> http://www.wxapp-union.com/article-2572-1.html
