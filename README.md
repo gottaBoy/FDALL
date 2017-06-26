@@ -1,4 +1,14 @@
 ## FDALL
+## https://zealdocs.org/
+> https://zealdocs.org/
+## https://i5ting.github.io/wechat-dev-with-nodejs
+> https://i5ting.github.io/wechat-dev-with-nodejs
+## https://github.com/supersheep/wechat-pay
+> https://github.com/supersheep/wechat-pay
+## https://github.com/node-webot/co-wechat
+> https://github.com/node-webot/co-wechat
+## https://github.com/node-webot/wechat-oauth
+> https://github.com/node-webot/wechat-oauth
 ## 免费的编辑器
 > https://coding.net/
 ## 前端页面素材
