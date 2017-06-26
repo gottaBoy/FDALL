@@ -192,3 +192,5 @@ https://github.com/xiaolin3303/wx-charts
 > https://github.com/weui/weui.js/
 ## ant-design-mobile
 > https://github.com/ant-design/ant-design-mobile
+## Git 常用命令和 Git Flow 梳理
+> http://www.jianshu.com/p/fa83b6858d52
