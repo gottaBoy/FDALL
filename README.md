@@ -1,4 +1,25 @@
 ## FDALL
+## https://npm.taobao.org/
+> https://npm.taobao.org/
+## https://github.com/TakWolf/CNode-Material-Design
+> https://github.com/TakWolf/CNode-Material-Design
+## https://github.com/lanceli/cnodejs-ionic
+> https://github.com/lanceli/cnodejs-ionic
+## http://www.weixin4j.org/
+> http://www.weixin4j.org/
+## https://github.com/liyiorg/weixin-popular
+> https://github.com/liyiorg/weixin-popular
+## https://github.com/caijianqing/weixinmp4java
+> https://github.com/caijianqing/weixinmp4java
+## https://github.com/foxinmy/weixin4j
+> https://github.com/foxinmy/weixin4j
+## https://github.com/chanjarster/weixin-java-tools
+> https://github.com/chanjarster/weixin-java-tools
+> http://blog.csdn.net/zeng_84_long/article/details/45476615
+## http://www.weixin4j.org/
+> http://www.weixin4j.org/
+## http://lib.csdn.net/base/dotnet
+> http://lib.csdn.net/base/dotnet
 ## 
 > http://landinghub.visualstudio.com/visual-cpp-build-tools
 > http://www.cnblogs.com/alunchen/p/5546821.html
