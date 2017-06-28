@@ -18,3 +18,5 @@
 > https://git.oschina.net/wangzhixuan/spring-shiro-training
 ## https://github.com/facebook/draft-js
 > https://github.com/facebook/draft-js
+## https://github.com/froala/wysiwyg-editor
+> https://github.com/froala/wysiwyg-editor
