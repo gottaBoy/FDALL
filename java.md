@@ -8,3 +8,13 @@
 > http://www.jianshu.com/p/1e1116b1ede6
 ## 微信weixin-popular
 > http://www.weixin4j.org/
+## https://github.com/JeffreySu/WeiXinMPSDK
+> https://github.com/JeffreySu/WeiXinMPSDK
+## https://github.com/whtsky/WeRoBot
+> https://github.com/whtsky/WeRoBot
+## https://github.com/linxiaowu66/wechat-nodejs-sdk
+> https://github.com/linxiaowu66/wechat-nodejs-sdk
+## https://git.oschina.net/wangzhixuan/spring-shiro-training
+> https://git.oschina.net/wangzhixuan/spring-shiro-training
+## https://github.com/facebook/draft-js
+> https://github.com/facebook/draft-js
