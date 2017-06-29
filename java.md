@@ -25,3 +25,10 @@
 ## https://github.com/tinymce/tinymce
 > https://github.com/tinymce/tinymce
 > https://www.tinymce.com/
+## http://www.jianshu.com/p/346cac67bfcc
+> http://www.jianshu.com/p/346cac67bfcc
+## https://tomoya92.github.io/2017/02/18/spring-boot-freemarker-i18n/
+> https://tomoya92.github.io/2017/02/18/spring-boot-freemarker-i18n/
+## http://www.jianshu.com/p/553a18cd4fd5
+> http://www.jianshu.com/p/553a18cd4fd5
+> https://konstantinpavlov.net/blog/2016/02/21/spring-freemarker-tips/
