@@ -47,3 +47,5 @@
 > http://www.cnblogs.com/Leo_wl/p/5734935.html
 ## mybatis数据类型
 > http://ysj5125094.iteye.com/blog/2185024/
+## gitlab源码
+> https://gitlab.com/gitlab-org/gitlab-ce/tree/master
