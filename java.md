@@ -51,3 +51,4 @@
 > https://gitlab.com/gitlab-org/gitlab-ce/tree/master
 ## 微信开发springboot
 > https://github.com/linux-china/spring-boot-starter-wechatmp
+> https://www.tianmaying.com/tutorial/OAuth-login-weixin
