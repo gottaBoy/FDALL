@@ -30,3 +30,4 @@
 > http://www.php.cn/html5-tutorial-362562.html
 ## 微信开发文档
 > https://wohugb.gitbooks.io/wechat/content/qrconnent/step_one.html
+> http://blog.csdn.net/inforstack/article/details/47780275
