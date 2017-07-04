@@ -21,3 +21,4 @@
 ## h5腾讯
 > https://isux.tencent.com/great-mobile-h5-pages.html
 > https://isux.tencent.com/category/fd
+> 适配问题 https://isux.tencent.com/how-to-make-webpage-fit-screen.html
