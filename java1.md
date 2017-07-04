@@ -14,3 +14,9 @@
 > https://github.com/Wechat-Group/weixin-java-tools
 ## demo
 > https://github.com/Wechat-Group/weixin-java-mp-demo-springboot
+## 方倍
+> http://www.cnblogs.com/txw1958/p/weixin-development-best-practice.html
+> http://www.cnblogs.com/txw1958/p/weixin-qrlogin.html
+> http://www.cnblogs.com/txw1958/p/weixin-menu-get-openid.html
+## h5
+> https://isux.tencent.com/great-mobile-h5-pages.html
