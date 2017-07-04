@@ -10,3 +10,5 @@
 > https://www.tianmaying.com/tutorials
 ## 微信bootspring
 > https://github.com/linux-china/spring-boot-starter-wechatmp
+## 微信团队开发包
+> https://github.com/Wechat-Group/weixin-java-tools
