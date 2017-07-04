@@ -28,3 +28,5 @@
 > http://www.php.cn/course/list/13.html
 > http://www.5iweb.com.cn/
 > http://www.php.cn/html5-tutorial-362562.html
+## 微信开发文档
+> https://wohugb.gitbooks.io/wechat/content/qrconnent/step_one.html
