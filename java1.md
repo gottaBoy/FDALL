@@ -18,5 +18,6 @@
 > http://www.cnblogs.com/txw1958/p/weixin-development-best-practice.html
 > http://www.cnblogs.com/txw1958/p/weixin-qrlogin.html
 > http://www.cnblogs.com/txw1958/p/weixin-menu-get-openid.html
-## h5
+## h5腾讯
 > https://isux.tencent.com/great-mobile-h5-pages.html
+> https://isux.tencent.com/category/fd
