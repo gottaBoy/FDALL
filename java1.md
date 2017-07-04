@@ -12,3 +12,5 @@
 > https://github.com/linux-china/spring-boot-starter-wechatmp
 ## 微信团队开发包
 > https://github.com/Wechat-Group/weixin-java-tools
+## demo
+> https://github.com/Wechat-Group/weixin-java-mp-demo-springboot
