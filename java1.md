@@ -22,3 +22,5 @@
 > https://isux.tencent.com/great-mobile-h5-pages.html
 > https://isux.tencent.com/category/fd
 > 适配问题 https://isux.tencent.com/how-to-make-webpage-fit-screen.html
+> https://isux.tencent.com/h5-drop-down-effect-slide.html
+> http://www.h5doo.com/
