@@ -32,3 +32,4 @@
 > https://wohugb.gitbooks.io/wechat/content/qrconnent/step_one.html
 > http://blog.csdn.net/inforstack/article/details/47780275
 > https://my.oschina.net/u/3235888/blog/832895
+> https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140842
