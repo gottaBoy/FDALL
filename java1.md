@@ -59,3 +59,7 @@
 > https://huaban.com/zll2005art/
 ## 花瓣
 > https://huaban.com
+> https://www.24haowan.com/
+> http://www.tuicool.com/articles/Ibq6Bb2
+## 人人秀
+> https://www.rrxiu.net
