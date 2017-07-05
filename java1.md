@@ -33,3 +33,5 @@
 > http://blog.csdn.net/inforstack/article/details/47780275
 > https://my.oschina.net/u/3235888/blog/832895
 > https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140842
+## 微信小程序的正确链接方式
+> http://www.96u.com/news/201703/303086.html
