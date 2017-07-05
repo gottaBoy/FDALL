@@ -52,3 +52,6 @@
 > http://code.cocoachina.com/view/129039
 ## 红包雨
 > http://demo.mycodes.net/daima/hongbaoyu/
+## thinkphp
+> http://www.thinkphp.cn/topic/39153.html
+> https://www.24haowan.com/
