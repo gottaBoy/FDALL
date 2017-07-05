@@ -35,3 +35,11 @@
 > https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140842
 ## 微信小程序的正确链接方式
 > http://www.96u.com/news/201703/303086.html
+## Android  China
+>http://www.androidchina.net/
+## kotlin
+> http://www.androidchina.net/7016.html
+## phonegap 100
+> http://www.phonegap100.com
+## ionic
+> http://www.ionic.wang/
