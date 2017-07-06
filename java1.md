@@ -78,3 +78,5 @@
 ## alert效果
 > http://www.haoshu888.com/js/921.html
 > http://demo.jb51.net/js/2015/sweetalert-master/
+## h5轮播
+> http://blog.csdn.net/u011072139/article/details/49585447
