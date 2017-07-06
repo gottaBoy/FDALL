@@ -77,3 +77,4 @@
 > http://412887952-qq-com.iteye.com/blog/2307389
 ## alert效果
 > http://www.haoshu888.com/js/921.html
+> http://demo.jb51.net/js/2015/sweetalert-master/
