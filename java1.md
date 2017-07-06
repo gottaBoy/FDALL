@@ -72,3 +72,5 @@
 ## python 网络爬虫
 > http://python.jobbole.com/81332/
 > http://python.jobbole.com/81359/
+## spring boot 内嵌的server配置
+> http://blog.csdn.net/catoop/article/details/50588851
