@@ -75,3 +75,5 @@
 ## spring boot 内嵌的server配置
 > http://blog.csdn.net/catoop/article/details/50588851
 > http://412887952-qq-com.iteye.com/blog/2307389
+## alert效果
+> http://www.haoshu888.com/js/921.html
