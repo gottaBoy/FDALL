@@ -32,3 +32,5 @@
 > http://blog.csdn.net/qq_28602957/article/details/53727865
 ## git merge
 > http://blog.csdn.net/u012150179/article/details/14047183
+## LINUX
+> https://www.linuxea.com/1542.html
