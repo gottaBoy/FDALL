@@ -30,3 +30,5 @@
 > https://coding.net/u/liuwill/p/docker-compose-php/git
 ## 
 > http://blog.csdn.net/qq_28602957/article/details/53727865
+## git merge
+> http://blog.csdn.net/u012150179/article/details/14047183
