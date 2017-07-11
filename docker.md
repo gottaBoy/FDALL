@@ -25,3 +25,6 @@
 > https://github.com/ysbcc/miniapp
 ## docker中文手册
 > http://www.docker.org.cn/index.html
+> http://www.jianshu.com/p/f11ab4e3d84a
+> https://hub.docker.com/_/php/
+> https://coding.net/u/liuwill/p/docker-compose-php/git
