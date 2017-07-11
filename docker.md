@@ -9,3 +9,5 @@
 > http://dockone.io/topic/Compose
 ## docker php
 > https://coding.net/u/liuwill/p/docker-compose-php/git
+## solo 开源博客
+> http://www.oschina.net/news/86658/solo-2-2-0
