@@ -36,3 +36,12 @@
 > https://www.linuxea.com/1542.html
 ## GIT
 > http://www.yiibai.com/git/
+## 倒计时
+> http://blog.csdn.net/sinat_29843547/article/details/49794449
+> http://www.jq22.com/jquery-info656
+## h5前端学习
+> https://echozq.github.io/echo-blog/2015/05/12/alipay.html
+## 前端 如何做好产品
+> http://www.woshipm.com/ucd/305903.html
+> http://www.appadhoc.com/function.html
+> https://echozq.github.io/echo-blog/2015/07/19/createJs.html
