@@ -47,3 +47,6 @@
 > https://echozq.github.io/echo-blog/2015/07/19/createJs.html
 ## 
 > http://www.jianshu.com/p/66799ee5177b
+## 小程序二维码生成器
+> https://github.com/demi520/wxapp-qrcode
+> http://blog.csdn.net/sinat_17775997/article/details/53608479
