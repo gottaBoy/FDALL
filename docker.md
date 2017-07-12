@@ -50,3 +50,5 @@
 ## 小程序二维码生成器
 > https://github.com/demi520/wxapp-qrcode
 > http://blog.csdn.net/sinat_17775997/article/details/53608479
+## 小程序二维码生成
+> http://cli.im/mina
