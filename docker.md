@@ -52,3 +52,7 @@
 > http://blog.csdn.net/sinat_17775997/article/details/53608479
 ## 小程序二维码生成
 > http://cli.im/mina
+## app 设计流程
+> http://www.woshipm.com/ucd/305903.html
+> http://www.jianshu.com/p/66799ee5177b
+> https://juejin.im/entry/565ec0f060b20de5ec7d32df
