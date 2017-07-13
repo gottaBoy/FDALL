@@ -56,3 +56,23 @@
 > http://www.woshipm.com/ucd/305903.html
 > http://www.jianshu.com/p/66799ee5177b
 > https://juejin.im/entry/565ec0f060b20de5ec7d32df
+##  二维码生成
+> http://colinued.leanote.com/
+> https://github.com/demi520/wxapp-qrcode
+> http://blog.csdn.net/sinat_17775997/article/details/53608479
+## 倒计时
+> http://www.cnblogs.com/h5monkey/p/7080134.html
+## chrome 开发工具
+> http://wiki.jikexueyuan.com/project/chrome-devtools/
+## 从浏览器或者Webview 中唤醒APP
+> https://blog.html5funny.com/2015/06/19/open-app-from-mobile-web-browser-or-webview/
+## h5
+> http://www.jq22.com/jquery-info656
+> http://www.jq22.com/jquery-info277
+> http://www.htmleaf.com/html5/html5-canvas/201502111366.html
+## seajs
+> http://wiki.jikexueyuan.com/project/hello-seajs/usage-guide.html
+> http://www.zhangxinxu.com/wordpress/2012/07/seajs-node-nodejs-spm-npm/  
+> http://yslove.net/seajs/
+> http://www.cnblogs.com/mfc-itblog/p/5404558.html
+> https://echozq.github.io/echo-blog/2015/11/13/callapp.html
