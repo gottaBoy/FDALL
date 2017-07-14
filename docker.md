@@ -83,3 +83,6 @@
 > https://github.com/ScienJus/spring-restful-authorization
 > http://www.scienjus.com/restful-token-authorization/
 > https://github.com/ScienJus/spring-authorization-manager
+## 微信开发 获取用户地理位置
+> http://www.importnew.com/18933.html
+> http://blog.csdn.net/donggx/article/details/53766072
