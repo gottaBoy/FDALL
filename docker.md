@@ -90,3 +90,6 @@
 ## swagger resultfull
 > http://blog.csdn.net/wangnan9279/article/details/44541665
 > https://github.com/springfox/springfox
+> http://www.cnblogs.com/JoiT/p/6378086.html
+> http://www.cnblogs.com/whitewolf/p/4686154.html
+> http://www.jianshu.com/p/4115f2b53983
