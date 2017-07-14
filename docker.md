@@ -86,3 +86,7 @@
 ## 微信开发 获取用户地理位置
 > http://www.importnew.com/18933.html
 > http://blog.csdn.net/donggx/article/details/53766072
+> http://blog.csdn.net/dragonpeng2008/article/details/53129953
+## swagger resultfull
+> http://blog.csdn.net/wangnan9279/article/details/44541665
+> https://github.com/springfox/springfox
