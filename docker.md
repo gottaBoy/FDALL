@@ -2,6 +2,8 @@
 > http://www.simapple.com/
 > http://www.simapple.com/336.html
 > http://www.docker.org.cn/index.html
+## docker 设置文件共享
+> https://www.bbsmax.com/A/xl56Bl15rZ/
 ## prd文档
 > http://www.woshipm.com/discuss/62538.html
 ## dockone
