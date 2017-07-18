@@ -95,3 +95,7 @@
 > http://www.cnblogs.com/JoiT/p/6378086.html
 > http://www.cnblogs.com/whitewolf/p/4686154.html
 > http://www.jianshu.com/p/4115f2b53983
+## windows linux
+> https://linux.cn/article-7209-1.html
+## 禅知
+> http://www.chanzhi.org/
