@@ -38,3 +38,5 @@
 > https://juejin.im/entry/565ec0f060b20de5ec7d32df
 ## 微信获取地理位置
 > http://www.importnew.com/18933.html
+## 微信开发之本地测试
+> http://www.importnew.com/18820.html
