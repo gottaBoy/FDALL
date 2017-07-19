@@ -40,3 +40,5 @@
 > http://www.importnew.com/18933.html
 ## 微信开发之本地测试
 > http://www.importnew.com/18820.html
+## 微信小程序合集
+> http://download.csdn.net/album/detail/3862
