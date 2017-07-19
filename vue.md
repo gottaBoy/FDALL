@@ -31,3 +31,4 @@
 ## spring security
 > http://www.importnew.com/20612.html
 > http://wiki.jikexueyuan.com/project/spring-security/first-experience.html
+> http://hotstrong.iteye.com/blog/1160153
