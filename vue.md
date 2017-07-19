@@ -44,3 +44,5 @@
 > http://download.csdn.net/album/detail/3862
 ## javascript 事件的添加，删除
 > http://www.jb51.net/article/70595.htm
+## 微信signature解决办法
+> http://www.thinkphp.cn/code/1568.html
