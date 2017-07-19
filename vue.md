@@ -42,3 +42,5 @@
 > http://www.importnew.com/18820.html
 ## 微信小程序合集
 > http://download.csdn.net/album/detail/3862
+## javascript 事件的添加，删除
+> http://www.jb51.net/article/70595.htm
