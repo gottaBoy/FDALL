@@ -32,5 +32,7 @@
 > http://www.importnew.com/20612.html
 > http://wiki.jikexueyuan.com/project/spring-security/first-experience.html
 > http://hotstrong.iteye.com/blog/1160153
+> https://www.ibm.com/developerworks/cn/java/j-lo-springsecurity/
+> http://liukai.iteye.com/blog/982088/
 ## docker node express
 > https://juejin.im/entry/565ec0f060b20de5ec7d32df
