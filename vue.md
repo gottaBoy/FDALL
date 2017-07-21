@@ -48,3 +48,5 @@
 > http://www.thinkphp.cn/code/1568.html
 ## 支付文档
 > https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=23_1
+## 小程序
+> https://www.w3cschool.cn/weixinapp/9wou1q8j.html
