@@ -3,6 +3,9 @@
 > https://www.ctolib.com/docs-vue-js-c-index.html
 > https://github.com/vuejs/awesome-vue
 > https://cn.vuejs.org/v2/guide/
+## 60分钟入门
+> http://www.cnblogs.com/rik28/p/6024425.html
+> https://keepfool.github.io/vue-tutorials/01.GettingStarted/simple-demo.html
 ## selenium
 > http://www.cnblogs.com/fnng/archive/2013/05/29/3106515.html
 ## mavonEditor
