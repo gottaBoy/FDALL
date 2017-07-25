@@ -23,3 +23,4 @@ https://www.tianmaying.com/tutorial/elastic-logstash-kibana
 > https://vincentmi.gitbooks.io/spring-security-reference-zh/content/6_spring_security_community.html
 ## spring boot
 > http://ryanjbaxter.com/2015/01/06/securing-rest-apis-with-spring-boot/
+> https://github.com/pzxwhc/MineKnowContainer/issues/59
