@@ -21,3 +21,5 @@ https://www.tianmaying.com/tutorial/elastic-logstash-kibana
 > https://vincentmi.gitbooks.io/spring-security-reference-zh/content/1_introduction.html
 ## Spring Security 社区
 > https://vincentmi.gitbooks.io/spring-security-reference-zh/content/6_spring_security_community.html
+## spring boot
+> http://ryanjbaxter.com/2015/01/06/securing-rest-apis-with-spring-boot/
