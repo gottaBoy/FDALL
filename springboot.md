@@ -28,3 +28,5 @@ https://www.tianmaying.com/tutorial/elastic-logstash-kibana
 > https://github.com/pzxwhc/MineKnowContainer
 > https://github.com/pzxwhc/MineKnowContainer/issues/58
 > https://github.com/pzxwhc/MineKnowContainer/issues/59
+> https://stackoverflow.com/questions/22998731/httpsecurity-websecurity-and-authenticationmanagerbuilder
+> https://spring.io/blog/2013/07/03/spring-security-java-config-preview-web-security/
