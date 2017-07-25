@@ -3,6 +3,8 @@
 > https://www.ctolib.com/docs-vue-js-c-index.html
 > https://github.com/vuejs/awesome-vue
 > https://cn.vuejs.org/v2/guide/
+## hexo
+> https://hexo.io/zh-cn/docs/index.html
 ## 60分钟入门
 > http://www.cnblogs.com/rik28/p/6024425.html
 > https://keepfool.github.io/vue-tutorials/01.GettingStarted/simple-demo.html
