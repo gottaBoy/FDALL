@@ -1,3 +1,10 @@
+## vue.js
+> http://teahour.fm/2015/08/16/vuejs-creator-evan-you.html
+> https://www.ctolib.com/docs-vue-js-c-index.html
+> https://github.com/vuejs/awesome-vue
+> https://cn.vuejs.org/v2/guide/
+## selenium
+> http://www.cnblogs.com/fnng/archive/2013/05/29/3106515.html
 ## mavonEditor
 > https://hinesboy.github.io/mavonEditor/dist/
 > http://www.jianshu.com/p/04376d0c9ff1
