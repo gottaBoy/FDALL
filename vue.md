@@ -81,3 +81,7 @@
 ## 小程序
 > https://www.w3cschool.cn/weixinapp/9wou1q8j.html
 > http://blog.csdn.net/zhao1234567890123456/article/details/53102410
+## spring oauth2
+> https://github.com/Baeldung/spring-security-oauth
+> https://github.com/pzxwhc/MineKnowContainer
+> http://www.baeldung.com/rest-api-spring-oauth2-angularjs
