@@ -5,7 +5,22 @@
 > https://cn.vuejs.org/v2/guide/
 ## demos
 > https://www.zhihu.com/question/38213423
-
+> http://jiongks.name/blog/just-vue/
+## 饿了吗
+> https://github.com/elemefe
+> https://security.ele.me/
+> https://github.com/ElemeFE/mint-ui
+### 脚手架
+> https://elemefe.github.io/cooking/
+## vue.js社区
+> https://www.vue-js.com/
+## vue.js 完整的代码
+> https://github.com/shinygang/Vue-cnodejs
+> https://cnodejs.org/topic/565c4473d0bc14ae279399fe
+## 掘金
+> https://juejin.im
+> https://juejin.im/entry/55f77eb460b28e6a6f0f4f86
+> https://github.com/zerqu/qingcheng
 ## hexo
 > https://hexo.io/zh-cn/docs/index.html
 ## 60分钟入门
