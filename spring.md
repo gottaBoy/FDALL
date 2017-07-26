@@ -22,3 +22,11 @@
 > http://m.php.cn/article/362040.html
 ## 基于SpringMVC+Bootstrap+DataTables实现表格服务端分页、模糊查询
 > http://m.php.cn/article/348032.html
+## Anoyi
+> http://www.jianshu.com/u/7b7ec6f2db21
+## 网易云音乐资源爬取（登录+评论）
+> http://www.jianshu.com/p/07ebbb142c73
+## flex
+> http://www.runoob.com/w3cnote/flex-grammar.html
+## express源码分析之Router
+> https://cnodejs.org/topic/5746cdcf991011691ef17b88
