@@ -1,0 +1,12 @@
+## spring
+> http://websystique.com/spring-security/secure-spring-rest-api-using-oauth2/
+> https://spring.io/guides/tutorials/spring-boot-oauth2/
+> https://git.oschina.net/mkk
+> https://github.com/wwwcomy/appDemo/tree/OAuth2
+> http://wwwcomy.iteye.com/blog/2230265
+## 阮一峰
+> http://www.ruanyifeng.com/
+### SSH原理与运用（一）：远程登录
+> http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html?bsh_bid=10860537
+### curl网站开发指南
+> http://www.ruanyifeng.com/blog/2011/09/curl.html
