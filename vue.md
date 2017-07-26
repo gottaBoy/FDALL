@@ -64,6 +64,9 @@
 > http://hotstrong.iteye.com/blog/1160153
 > https://www.ibm.com/developerworks/cn/java/j-lo-springsecurity/
 > http://liukai.iteye.com/blog/982088/
+## spring boot 
+> https://github.com/kaenry/spring-boot-magneto
+> https://github.com/pzxwhc/MineKnowContainer
 ## docker node express
 > https://juejin.im/entry/565ec0f060b20de5ec7d32df
 ## 微信获取地理位置
