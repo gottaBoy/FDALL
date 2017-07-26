@@ -4,6 +4,8 @@
 > https://git.oschina.net/mkk
 > https://github.com/wwwcomy/appDemo/tree/OAuth2
 > http://wwwcomy.iteye.com/blog/2230265
+## boot
+> http://www.jianshu.com/nb/7549029
 ## 阮一峰
 > http://www.ruanyifeng.com/
 ### 理解OAuth 2.0
