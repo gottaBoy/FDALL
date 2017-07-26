@@ -6,7 +6,12 @@
 > http://wwwcomy.iteye.com/blog/2230265
 ## 阮一峰
 > http://www.ruanyifeng.com/
+### 理解OAuth 2.0
+> http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
 ### SSH原理与运用（一）：远程登录
 > http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html?bsh_bid=10860537
 ### curl网站开发指南
 > http://www.ruanyifeng.com/blog/2011/09/curl.html
+## next.js
+> https://github.com/zeit/next.js/
+> https://zeit.co/
