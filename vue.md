@@ -3,6 +3,8 @@
 > https://www.ctolib.com/docs-vue-js-c-index.html
 > https://github.com/vuejs/awesome-vue
 > https://cn.vuejs.org/v2/guide/
+## 一步一步
+> https://github.com/malun666/vue-stepbystep
 ## demos
 > https://www.zhihu.com/question/38213423
 > http://jiongks.name/blog/just-vue/
