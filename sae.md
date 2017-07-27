@@ -4,6 +4,14 @@
 > https://cnodejs.org/topic/596c0eabaf1a22d018d97022
 > https://github.com/tumobi/nideshop-mini-program
 > https://github.com/tumobi/nideshop
+## demo
+> https://github.com/shinygang/Vue-cnodejs
+> https://github.com/tumobi/nideshop-mini-program
+> https://github.com/tumobi/nideshop
+> https://cnodejs.org/topic/596c0eabaf1a22d018d97022
+> https://sae.sina.com
+> https://vuex.vuejs.org/zh-cn/actions.html
+> https://thinkjs.org/doc/error_handle.html#404
 ## Node.js连接MySQL参考文档
 > http://www.sinacloud.com/doc/sae/docker/howto-use-mysql.html#nodejs
 ## 小下
