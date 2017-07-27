@@ -8,5 +8,8 @@
 > http://www.sinacloud.com/doc/sae/docker/howto-use-mysql.html#nodejs
 ## 小下
 > https://www.linganmin.com
+## Nginx日常手记
+> https://www.linganmin.com/show/37
+> https://www.linganmin.com/show/42
 ## 微信支付
 > https://pay.weixin.qq.com/guide/index.shtml
