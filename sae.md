@@ -1,0 +1,8 @@
+## 新浪云部署
+## 202.108.35.143:60022  gottaboy 
+> https://www.sinacloud.com/home/index/faq_detail/doc_id/173.html
+> https://cnodejs.org/topic/596c0eabaf1a22d018d97022
+> https://github.com/tumobi/nideshop-mini-program
+> https://github.com/tumobi/nideshop
+## Node.js连接MySQL参考文档
+> http://www.sinacloud.com/doc/sae/docker/howto-use-mysql.html#nodejs
