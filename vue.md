@@ -3,6 +3,12 @@
 > https://www.ctolib.com/docs-vue-js-c-index.html
 > https://github.com/vuejs/awesome-vue
 > https://cn.vuejs.org/v2/guide/
+> https://cn.vuejs.org/v2/guide/ssr.html
+> https://ssr.vuejs.org/zh/
+> https://nuxtjs.org/
+> https://github.com/chrisvfritz/vue-2.0-simple-routing-example
+> https://www.ctolib.com/docs-vue-js-c-index.html
+> http://www.cnblogs.com/rik28/p/6024425.html
 ## 一步一步
 > https://github.com/malun666/vue-stepbystep
 ## demos
