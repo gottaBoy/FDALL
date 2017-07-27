@@ -6,3 +6,7 @@
 > https://github.com/tumobi/nideshop
 ## Node.js连接MySQL参考文档
 > http://www.sinacloud.com/doc/sae/docker/howto-use-mysql.html#nodejs
+## 小下
+> https://www.linganmin.com
+## 微信支付
+> https://pay.weixin.qq.com/guide/index.shtml
