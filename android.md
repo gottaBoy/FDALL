@@ -27,3 +27,7 @@
 > http://blog.csdn.net/feiduclear_up/article/details/50704127
 ## NDK
 > https://developer.android.com/ndk/index.html
+## 代理
+> http://blog.csdn.net/boonya/article/details/38752647
+> http://www.cnblogs.com/zl1991/p/6378060.html
+> http://www.jianshu.com/p/53080a8cbc95
