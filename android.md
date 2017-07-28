@@ -19,3 +19,5 @@
 > http://www.2cto.com/kf/201412/364526.html
 ## android studio
 > http://www.cnblogs.com/shangdahao/archive/2013/04/17/3025429.html
+## location
+> http://blog.csdn.net/feiduclear_up/article/details/50704127
