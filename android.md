@@ -15,3 +15,5 @@
 > http://www.android-studio.org/index.php/docs
 ## Color Themes
 > http://color-themes.com/?view=index
+## Android 生成keystore，两种方式
+> http://www.2cto.com/kf/201412/364526.html
