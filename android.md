@@ -25,3 +25,5 @@
 > http://blog.csdn.net/qq_35114086/article/details/52135220
 > https://www.ibm.com/developerworks/cn/opensource/os-cn-android-location/
 > http://blog.csdn.net/feiduclear_up/article/details/50704127
+## NDK
+> https://developer.android.com/ndk/index.html
