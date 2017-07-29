@@ -31,3 +31,6 @@
 > http://blog.csdn.net/boonya/article/details/38752647
 > http://www.cnblogs.com/zl1991/p/6378060.html
 > http://www.jianshu.com/p/53080a8cbc95
+## gradle
+> http://wiki.jikexueyuan.com/project/deep-android-gradle/
+> http://www.yiibai.com/gradle/how-install-gradle-windows.html
