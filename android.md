@@ -34,3 +34,5 @@
 ## gradle
 > http://wiki.jikexueyuan.com/project/deep-android-gradle/
 > http://www.yiibai.com/gradle/how-install-gradle-windows.html
+## android 调试文档
+> https://developer.android.com/studio/intro/index.html?hl=zh-cn
