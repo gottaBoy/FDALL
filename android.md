@@ -44,3 +44,5 @@
 > https://developer.android.com/about/versions/nougat/android-7.0.html#apk_signature_v2
 ## aapt2解决方案
 > https://stackoverflow.com/questions/44482431/aapt2-compile-failed-invalid-dimen-on-android-3-0-canary-1-on-windows
+## 镜像
+> http://ask.android-studio.org/?/article/34
