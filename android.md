@@ -40,3 +40,5 @@
 > http://github.com/lifengsofts/TestThirdPartyFunction
 ## 问题版本
 > https://developer.android.com/topic/libraries/support-library/revisions.html
+## android debug.keystore
+> https://developer.android.com/about/versions/nougat/android-7.0.html#apk_signature_v2
