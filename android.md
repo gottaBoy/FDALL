@@ -55,3 +55,7 @@
 > https://github.com/huangfangyi/FanXin3.0
 ## javaapk
 > http://www.javaapk.com/
+> http://www.codeforge.cn/
+> http://blog.csdn.net/a357339414/article/details/52061553
+> http://www.2cto.com/kf/201605/506150.html
+> http://blog.csdn.net/timcrl/article/details/51873815
