@@ -46,3 +46,10 @@
 > https://stackoverflow.com/questions/44482431/aapt2-compile-failed-invalid-dimen-on-android-3-0-canary-1-on-windows
 ## 镜像
 > http://ask.android-studio.org/?/article/34
+## 商场源码
+> http://www.tp-shop.cn/article_id_1098.html
+> https://github.com/YiChat
+> http://ask.android-studio.org/?/question/1215
+## java反编译
+> http://www.365mini.com/page/javap-disassemble-class-file-code.htm
+> https://github.com/huangfangyi/FanXin3.0
