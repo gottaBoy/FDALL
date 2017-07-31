@@ -1,3 +1,10 @@
+## 资源
+> http://www.androidchina.net/
+> http://www.androidchina.net/7182.html
+> http://www.androidchina.net/7139.html
+> http://www.android-studio.org/index.php/download
+## 干货
+> http://www.androidchina.net/7200.html
 ## idea
 > https://www.jetbrains.com/help/idea/meet-intellij-idea.html
 ## android 
