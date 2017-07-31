@@ -10,3 +10,7 @@
 > http://www.cnblogs.com/Westfalen/p/6909108.html
 > http://www.jianshu.com/p/87b61dd01997
 > http://www.jianshu.com/p/1a17622c9f48
+## chart
+> http://blog.csdn.net/itermeng/article/details/70135539
+> http://jcodecraeer.com/a/opensource/2014/1107/1931.html
+> https://github.com/lecho/hellocharts-android
