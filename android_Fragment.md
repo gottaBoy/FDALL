@@ -4,3 +4,9 @@
 > http://www.cnblogs.com/changyinlu/p/5511932.html
 > http://www.jianshu.com/p/a663803b2a44
 > http://www.jianshu.com/p/f70073f7e837
+## 支付 
+> http://www.jianshu.com/search?q=android%20%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98&page=1&type=note
+> http://www.jianshu.com/p/459636854c5c
+> http://www.cnblogs.com/Westfalen/p/6909108.html
+> http://www.jianshu.com/p/87b61dd01997
+> http://www.jianshu.com/p/1a17622c9f48
