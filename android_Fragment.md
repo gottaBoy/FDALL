@@ -14,3 +14,7 @@
 > http://blog.csdn.net/itermeng/article/details/70135539
 > http://jcodecraeer.com/a/opensource/2014/1107/1931.html
 > https://github.com/lecho/hellocharts-android
+## circle slider
+> https://github.com/hdodenhof/CircleImageView
+> http://echarts.baidu.com/examples.html
+> https://fir.im/128j
