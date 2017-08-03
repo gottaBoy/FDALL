@@ -10,3 +10,5 @@
 > https://github.com/vue-bulma/vue-admin
 ##
 > https://github.com/princejwesley/circular-slider
+## 
+> https://www.anedix.com/docs/mui/API/Progress_Indicators/newProgressCircle.html
