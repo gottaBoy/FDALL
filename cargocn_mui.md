@@ -16,3 +16,5 @@
 > https://github.com/arcadefx/material-ui
 ##
 > https://kimmobrunfeldt.github.io/progressbar.js/
+## 
+> https://badfl.gitbooks.io/mui/mui-slider2.html
