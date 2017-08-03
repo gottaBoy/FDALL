@@ -14,3 +14,5 @@
 > https://www.anedix.com/docs/mui/API/Progress_Indicators/newProgressCircle.html
 ##
 > https://github.com/arcadefx/material-ui
+##
+> https://kimmobrunfeldt.github.io/progressbar.js/
