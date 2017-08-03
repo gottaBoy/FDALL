@@ -8,3 +8,5 @@
 > https://github.com/delight-im/Android-AdvancedWebView
 ## 
 > https://github.com/vue-bulma/vue-admin
+##
+> https://github.com/princejwesley/circular-slider
