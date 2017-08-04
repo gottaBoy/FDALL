@@ -25,3 +25,7 @@
 ## webpage
 > https://pages.github.com/
 > https://jekyllrb.com/
+##
+> http://www.hcoder.net/api
+##
+> https://github.com/xiabingwu/chartjs-wechat-mini-app
