@@ -31,3 +31,5 @@
 > https://github.com/xiabingwu/chartjs-wechat-mini-app
 ##
 > http://www.wxappclub.com/
+## 小程序二维码
+> http://blog.text.wiki/2017/03/31/weixin-mp-open-minapp-in-menu.html
