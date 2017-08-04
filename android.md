@@ -66,3 +66,5 @@
 > http://blog.csdn.net/a357339414/article/details/52061553
 > http://www.2cto.com/kf/201605/506150.html
 > http://blog.csdn.net/timcrl/article/details/51873815
+##
+> https://github.com/hilongjw/vue-progressbar
