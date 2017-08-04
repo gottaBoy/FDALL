@@ -33,3 +33,6 @@
 > http://www.wxappclub.com/
 ## 小程序二维码
 > http://blog.text.wiki/2017/03/31/weixin-mp-open-minapp-in-menu.html
+##
+> http://android.hh85.com/forum.php?mod=viewthread&tid=26
+> http://blog.csdn.net/fengyuzhengfan/article/details/51517622
