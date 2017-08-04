@@ -27,5 +27,7 @@
 > https://jekyllrb.com/
 ##
 > http://www.hcoder.net/api
-##
+## 微信小程序
 > https://github.com/xiabingwu/chartjs-wechat-mini-app
+##
+> http://www.wxappclub.com/
